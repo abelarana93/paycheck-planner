@@ -1,0 +1,1 @@
+Paycheck Planner: Upload index.html, manifest.webmanifest, sw.js, icon-192.png, and icon-512.png to the root of a public GitHub repository. Enable Settings > Pages > Deploy from branch > main > /(root). Open https://YOUR-USERNAME.github.io/paycheck-planner/ in Safari and choose Share > Add to Home Screen. Data is stored locally. Use Reports > Export CSV for backups.
